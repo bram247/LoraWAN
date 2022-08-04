@@ -10,4 +10,7 @@ all you need is ;
 - (TTN)-account 
   https://www.thethingsnetwork.org/
   the code is specialy for my (TTN)-account, so you need:
+  - const PROGMEM u1_t NWKSKEY[16]
+  - const PROGMEM u1_t NWKSKEY[16]
+  - const PROGMEM u1_t NWKSKEY[16]
   
