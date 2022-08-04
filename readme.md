@@ -9,8 +9,8 @@ all you need is ;
   https://www.youtube.com/watch?v=bfSxdOnqfik&t=220s
 - (TTN)-account 
   https://www.thethingsnetwork.org/
-  the code is specialy for my (TTN)-account, so you need:
+  the code is specialy for my (TTN)-account, so you need change this variables to your situation:
   - const PROGMEM u1_t NWKSKEY[16]
-  - const PROGMEM u1_t NWKSKEY[16]
-  - const PROGMEM u1_t NWKSKEY[16]
+  - static const u1_t PROGMEM APPSKEY[16]
+  - static const u4_t DEVADDR
   
