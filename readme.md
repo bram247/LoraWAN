@@ -1,4 +1,4 @@
-if you want to connect your instalation to the interenet without having intenet, you can use a other netwerk like this one (LoraWAN,Sigfox).
+if you want to connect your instalation to the internet without having intenet, you can use a other netwerk like this one (LoraWAN,Sigfox).
 this is made for long distant communication and can transfor small data a few times a day.
 
 LoraWan is free to use if you have a account on the tings network (TTN);
